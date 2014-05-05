@@ -12,3 +12,4 @@ vendor/
 cms/
 framework/
 *.iml
+TestPages/
